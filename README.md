@@ -1,6 +1,7 @@
 # VaR-Calculator
 
 A python tool to calculate portfolio Value at Risk using Historical or Variance-Covariance methods. 
+[Live Demo](https://var-calculator-eg.streamlit.app/)
 
 ## Features
 - Supports two common VaR methods: Historical and Variance-Covariance
